@@ -1,0 +1,4 @@
+const x = 5;
+const f = function (y) { return x };
+const g = function (x) { return f(1) };
+g(4)

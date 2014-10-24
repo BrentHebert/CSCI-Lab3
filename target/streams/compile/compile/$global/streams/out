@@ -1,0 +1,75 @@
+[0m[[0mdebug[0m] [0mInvalidating C:\Program Files\Java\jre7\lib\rt.jar: class java.lang.Double now provided by C:\Program Files\Java\jre1.8.0_25\lib\rt.jar[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Print$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Unary.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$N.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Var.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Le$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$If$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Uop.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Seq$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Binary$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$DynamicTypeError$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$B.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3$$anonfun$processFile$2.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$DynamicTypeError.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3$$anonfun$2.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Neg$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Undefined$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Minus$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Lt$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Times$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$S$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Bop.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Call.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Not$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Binary.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Ge$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Var$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Function.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3$$anonfun$1.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Expr.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$S.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Div$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Or$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$ConstDecl.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$B$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$If.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Print.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Unary$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Ne$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Call$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3$$anonfun$processFile$1.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Eq$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Gt$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Function$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$Plus$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\Lab3.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$ConstDecl$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$And$.class, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes\jsy\lab3\ast$N$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(C:\Program Files\Java\jre7\lib\rt.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\jsy\lab3\ast.scala, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\jsy\lab3\ast.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala, C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\jsy\lab3\ast.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.3  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_e1cfcc5b[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_25\lib\resources.jar;C:\Program Files\Java\jre1.8.0_25\lib\rt.jar;C:\Program Files\Java\jre1.8.0_25\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_25\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_25\lib\jce.jar;C:\Program Files\Java\jre1.8.0_25\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_25\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_25\classes;C:\Users\Binka\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.6\xsbti\interface-0.13.6.jar;C:\Users\Binka\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.6\compiler-interface-src\compiler-interface-src-0.13.6.jar;C:\Users\Binka\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.10.3.jar;C:\Users\Binka\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.3.jar;C:\Users\Binka\.ivy2\cache\org.scala-lang\jline\jars\jline-2.10.3.jar;C:\Users\Binka\.ivy2\cache\org.fusesource.jansi\jansi\jars\jansi-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\AppData\Local\Temp\sbt_b41a598f\xsbt\ScaladocInterface.scala[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 608769d, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_25\lib\resources.jar;C:\Program Files\Java\jre1.8.0_25\lib\rt.jar;C:\Program Files\Java\jre1.8.0_25\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_25\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_25\lib\jce.jar;C:\Program Files\Java\jre1.8.0_25\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_25\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_25\classes;C:\Users\Binka\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\target\scala-2.10\classes;C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\lib\liblab3.jar;C:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\lib\scalatest_2.10-2.0.jar[0m
+[0m[[33mwarn[0m] [0mC:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala:138: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: Binary(_, _, _), Call(_, _), ConstDecl(_, _, _), Function(_, _, _), If(_, _, _), Print(_), Unary(_, _), Undefined, Var(_)[0m
+[0m[[33mwarn[0m] [0m      case Binary(Eq, e1, e2) => eToVal(e1) match {[0m
+[0m[[33mwarn[0m] [0m                                       ^[0m
+[0m[[33mwarn[0m] [0mC:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala:145: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: Binary(_, _, _), Call(_, _), ConstDecl(_, _, _), Function(_, _, _), If(_, _, _), Print(_), Unary(_, _), Undefined, Var(_)[0m
+[0m[[33mwarn[0m] [0m      case Binary(Ne, e1, e2) => eToVal(e1) match {[0m
+[0m[[33mwarn[0m] [0m                                       ^[0m
+[0m[[33mwarn[0m] [0mC:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala:161: unreachable code[0m
+[0m[[33mwarn[0m] [0m      case Binary(bop @ (Eq|Ne), Function(Some(func), varName, fBody), e2) => throw DynamicTypeError(e)[0m
+[0m[[33mwarn[0m] [0m                                                                              ^[0m
+[0m[[33mwarn[0m] [0mC:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala:271: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: Binary(_, _, _), Call(_, _), ConstDecl(_, _, _), Function(_, _, _), If(_, _, _), Print(_), Unary(_, _), Undefined, Var(_)[0m
+[0m[[33mwarn[0m] [0m        if (isValue(e1) && isValue(e2)) e1 match {[0m
+[0m[[33mwarn[0m] [0m                                        ^[0m
+[0m[[33mwarn[0m] [0mC:\Users\Binka\Desktop\ScalaEclipse\eclipse\workspace\lab3\src\main\scala\Lab3.scala:280: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: Binary(_, _, _), Call(_, _), ConstDecl(_, _, _), Function(_, _, _), If(_, _, _), Print(_), Unary(_, _), Undefined, Var(_)[0m
+[0m[[33mwarn[0m] [0m        if (isValue(e1) && isValue(e2)) e1 match {[0m
+[0m[[33mwarn[0m] [0m                                        ^[0m
+[0m[[33mwarn[0m] [0m5 warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 50.055333922 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
